@@ -1,2 +1,7 @@
-# sandbox-world-map-select
-Sandbox to create an interactive world map
+# WorldMapSelect
+
+WIP
+
+## License
+
+Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
